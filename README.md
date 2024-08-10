@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/armanhoseyni">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,git,py,mysql,jquery"/>
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,postman,git,py,mysql,jquery"/>
   </a>
 </p>
 
